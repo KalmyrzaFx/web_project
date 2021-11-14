@@ -1,1 +1,1 @@
-# web_project
+# Issyk-Kul page
