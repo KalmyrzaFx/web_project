@@ -1,1 +1,1 @@
-# Issyk-Kul page
+# Travel site page
